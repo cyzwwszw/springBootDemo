@@ -1,9 +1,9 @@
-package com.xuhu.biz.impl;
+package com.dream9.biz.impl;
 
 import com.github.pagehelper.PageHelper;
-import com.xuhu.biz.IUserInfoService;
-import com.xuhu.dao.mapper.UserInfoMapper;
-import com.xuhu.dao.model.UserInfo;
+import com.dream9.biz.IUserInfoService;
+import com.dream9.dao.mapper.UserInfoMapper;
+import com.dream9.dao.model.UserInfo;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -14,7 +14,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * Created by xuhu on 2017/2/18.
+ * Created by dream9 on 2017/2/18.
  */
 
 @Service

@@ -1,4 +1,4 @@
-package com.xuhu;
+package com.dream9;
 
 import org.springframework.stereotype.Component;
 

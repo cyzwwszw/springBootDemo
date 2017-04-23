@@ -1,10 +1,10 @@
-package com.xuhu.prop;
+package com.dream9.prop;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
 /**
- * Created by xuhu on 2017/2/11.
+ * Created by dream9 on 2017/2/11.
  */
 
 @Component

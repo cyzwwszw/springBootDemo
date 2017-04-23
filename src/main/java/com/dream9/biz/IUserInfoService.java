@@ -1,11 +1,11 @@
-package com.xuhu.biz;
+package com.dream9.biz;
 
-import com.xuhu.dao.model.UserInfo;
+import com.dream9.dao.model.UserInfo;
 
 import java.util.List;
 
 /**
- * Created by xuhu on 2017/2/18.
+ * Created by dream9 on 2017/2/18.
  */
 public interface IUserInfoService {
 

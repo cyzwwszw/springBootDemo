@@ -22,9 +22,9 @@
  * THE SOFTWARE.
  */
 
-package com.xuhu.dao.model;
+package com.dream9.dao.model;
 
-import com.xuhu.utils.IDUtil;
+import com.dream9.utils.IDUtil;
 
 import javax.persistence.*;
 

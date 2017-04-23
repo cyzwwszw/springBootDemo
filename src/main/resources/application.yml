@@ -10,13 +10,13 @@ spring:
     password:
 
 mybatis:
-  type-aliases-package: com.xuhu.dao.model
+  type-aliases-package: com.dream9.dao.model
   mapper-locations: classpath:mapper/*.xml
 
 
 mapper:
     mappers:
-        - com.xuhu.utils.MyMapper
+        - com.dream9.utils.MyMapper
     not-empty: false
     identity: MYSQL
 
@@ -28,7 +28,7 @@ pagehelper:
 #logging:
 #  level:
 #    org.springframework.web: error
-#    com.xuhu: info
+#    com.dream9m9: info
 
 
 

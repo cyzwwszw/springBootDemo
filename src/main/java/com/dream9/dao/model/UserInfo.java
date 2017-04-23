@@ -1,4 +1,4 @@
-package com.xuhu.dao.model;
+package com.dream9.dao.model;
 
 import javax.persistence.*;
 

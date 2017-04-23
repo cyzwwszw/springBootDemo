@@ -1,4 +1,4 @@
-package com.xuhu;
+package com.dream9;
 
 import org.apache.catalina.connector.Connector;
 import org.springframework.boot.context.embedded.EmbeddedServletContainerFactory;

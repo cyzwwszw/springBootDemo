@@ -1,8 +1,8 @@
-package com.xuhu.controller;
+package com.dream9.controller;
 
-import com.xuhu.biz.IUserInfoService;
-import com.xuhu.dao.model.UserInfo;
-import com.xuhu.utils.IDUtil;
+import com.dream9.biz.IUserInfoService;
+import com.dream9.dao.model.UserInfo;
+import com.dream9.utils.IDUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 /**
- * Created by xuhu on 2017/2/18.
+ * Created by dream9 on 2017/2/18.
  */
 @RestController
 @RequestMapping("/user")

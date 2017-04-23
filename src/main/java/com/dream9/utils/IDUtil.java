@@ -1,9 +1,9 @@
-package com.xuhu.utils;
+package com.dream9.utils;
 
 import java.util.UUID;
 
 /**
- * Created by xuhu on 2017/2/19.
+ * Created by dream9 on 2017/2/19.
  */
 public class IDUtil {
     public static String UUID(){

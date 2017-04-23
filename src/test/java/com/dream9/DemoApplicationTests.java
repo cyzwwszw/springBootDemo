@@ -1,4 +1,4 @@
-package com.xuhu;
+package com.dream9;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
